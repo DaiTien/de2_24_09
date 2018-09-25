@@ -1,0 +1,98 @@
+.header{
+	float: left;
+	width: 100%;
+	height: 450px;
+	background-color: #ffffff;
+}
+.header .menu{
+	float: left;
+	width: 100%;
+	height: 50px;
+}
+.header .menu .logo {
+	float: left;
+	width: 20%;
+	height: 100%;
+}
+.header .menu .logo img{
+	height: 100%;
+}
+.header .menu .Test{
+	float: left;
+	width: 20%;
+	height: 100%;
+}
+.header .menu .mn{
+	float: right;
+	width: 60%;
+	height: 100%
+}
+.header .menu .Test h2{
+	margin: 0;
+	padding-top: 5px;
+	text-transform: uppercase;
+	color: #a9cd49;
+}
+.header .menu .mn ul{
+	margin: 0;
+	padding: 0;
+	display: block;
+	line-height: 40px;
+	list-style: none;
+	padding-left: 15%;
+}
+.header .menu .mn ul li{
+	float: left;
+	display: block;
+	width: 15%;
+	text-align: center;
+}
+.header .menu .mn ul li a{
+	text-decoration: none;
+	color: black;
+}
+.header .menu .mn ul li a:hover{
+	color: blue;
+}
+.header .menu .mn ul li a.home{
+	color: #a9cd49;
+}
+.header .back-img{
+	float: left;
+	width: 100%;
+	height: 400px;
+	background-image: url('http://4.bp.blogspot.com/-VwRbTanSZHM/VE_cCH1p1KI/AAAAAAAAEWQ/KVYaJ1240Zo/s1600/SinhVienIT.NET---3586967.png');
+}
+.header .back-img .text{
+	padding-top: 10%;
+	display: block;
+	width: 20%;
+	margin: 0;
+}
+.header .back-img h2{
+	margin: 0;
+	color: white;
+	display:block;
+	width: 65%;
+	background: black;
+	text-transform: uppercase;
+	border-bottom: 1px dotted white;
+}
+.header .back-img h1{
+	margin: 0;
+	font-size: 25px;
+	color: white;
+	display:block;
+	width: 85%;
+	background: black;
+	text-transform: uppercase;
+	border-bottom: 1px dotted white;
+}
+.header .back-img p{
+	margin: 0;
+	color: white;
+	display: inline;
+	background: black;
+	text-transform: uppercase;
+	border-bottom: 1px dotted white;
+}
