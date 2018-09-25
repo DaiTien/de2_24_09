@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 .header{
 	float: left;
 	width: 100%;
@@ -359,4 +360,151 @@ hr{
 	font-style: bold;
 	margin-top: 22%;
 	line-height: 30px;
+}
+.pricing{
+	width: 100%;
+	height: 500px;
+	background: #a9cd49;
+}
+.pricing .tieude{
+	float: left;
+	width: 100%;
+	height: 90px;
+	background-color: #a9cd49;
+	margin-bottom: 10px;
+	margin-top: 20px;
+}
+.tieude h3{
+	padding: 0;
+	margin: 0;
+	text-transform: uppercase;
+	font-size: 28px;
+	text-align: center;
+	padding-top: 15px;
+}
+.tieude p{
+	display: block;
+	padding: 0;
+	margin: 0;
+	padding-top: 5px;
+	font-size: 18px;
+	text-align: center;
+}
+.pricing .box1{
+	float: left;
+	width: 30%;
+	height: 76%;
+	background-color: #D8D8D8;
+	margin-right: 2%;
+}
+.box1 .ten{
+	width: 100%;
+	height: 60px;
+	background-color: #151515;
+}
+.box1 .ten h4{
+	margin: 0;
+	padding: 0;
+	color: white;
+	font-size: 32px;
+	text-align: center;
+	line-height: 60px;
+}
+.box1 .text{
+	width: 100%;
+	height: 60px;
+	background: #D8D8D8;
+	border-bottom: 1px solid #6E6E6E;
+}
+.box1 .text p{
+	margin: 0;
+	padding: 0;
+	font-size: 22px;
+	text-align:center;
+	line-height: 60px;
+}
+.box1 p{
+	text-align: center;
+	font-size: 18px;
+}
+.text p b{
+	font-size: 40px;
+}
+.box1 .x{
+	margin: 0 auto;
+	width: 130px;
+	height: 40px;
+	background: #1C1C1C;
+	border-radius: 5px;
+}
+.box1 .x a{
+	text-decoration: none;
+	font-size: 19px;
+	text-align: center;
+	line-height: 35px;
+	padding-left: 20px;
+	color: white;
+}
+.box1 .x a:hover{
+	color: blue;
+}
+.pricing .box{
+	float: left;
+	width: 30%;
+	height: 76%;
+	background-color: #D8D8D8;
+	margin-right: 2%;
+}
+.box .ten{
+	width: 100%;
+	height: 60px;
+	background-color: #21610B;
+}
+.box .ten h4{
+	margin: 0;
+	padding: 0;
+	font-size: 32px;
+	text-align: center;
+	line-height: 60px;
+}
+.box .text{
+	width: 100%;
+	height: 60px;
+	background: #D8D8D8;
+	border-bottom: 1px solid #6E6E6E;
+}
+.box .text p{
+	margin: 0;
+	padding: 0;
+	font-size: 22px;
+	text-align:center;
+	line-height: 60px;
+}
+.box p{
+	text-align: center;
+	font-size: 18px;
+}
+.text p b{
+	font-size: 40px;
+}
+.box .x{
+	margin: 0 auto;
+	width: 130px;
+	height: 40px;
+	background: #0B610B;
+	border-radius: 5px;
+}
+.box .x a{
+	text-decoration: none;
+	font-size: 19px;
+	text-align: center;
+	line-height: 35px;
+	padding-left: 30px;
+	color: white;
+}
+.box .x a:hover{
+	color: blue;
+}
+.box1.dif{
+	margin-left: 40px;
 }
