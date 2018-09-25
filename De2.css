@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 .header{
 	float: left;
 	width: 100%;
@@ -219,4 +220,78 @@ hr{
 	color: #949596;
 	text-align: justify;
 	font-size: 15px;
+}
+.content-mid {
+	width: 100%;
+	height: 400px;
+	float: left;
+}
+.content-mid .content-mid-h{
+	background: #a9cd49;
+	float: left;
+	width: 100%;
+	height: 100px;
+}
+.content-mid-h .our{
+	text-align: center;
+	font-size: 30px;
+	text-transform: uppercase; 
+	padding-top: 20px;
+	
+}
+.content-mid-h p{
+	padding: 0;
+	margin: 0;
+	text-align: center;
+	padding-top: 10px;
+}
+.content-mid .content-bot {
+	width: 100%;
+	height: 300px;
+	float: left;
+
+}
+.content-bot .box{
+	width: 20%;
+	height: 300px;
+	float: left;
+	background:url(https://vignette.wikia.nocookie.net/onepiece/images/a/a3/Gear_Fourth_Infobox.png/revision/latest?cb=20170830213511);
+	margin-left: 50px;
+	background-size: 100% 100%;
+	position: relative;
+	margin-top: 20px;
+}
+.box .box-t{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: #a9cd49;
+	position: absolute;
+	bottom: 0;
+}
+.box .box-r {
+	width: 98%;
+	height: 50px;
+	float: left;
+	background: gray;
+	position: absolute;
+	bottom: 50px;
+	opacity: 0.8;
+    font-size: 17px;
+    line-height: 50px;
+    text-transform: uppercase;
+    padding-left: 5px;
+}
+.box-t .img{
+	display: inline;
+	width: 120px;
+	height: 30px;
+	float: left;
+	margin-left: 75px;
+	margin-top: 8px;
+
+}
+.box-t .img img{
+	width: 30%;
+	float: left;
 }
