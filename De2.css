@@ -1,0 +1,74 @@
+.ourvervices{
+	float: left;
+	width: 100%;
+	height: 500px;
+	margin: auto;
+}
+.ourvervices .our1 {
+	width: 100%;
+	height: 100px;
+	background-color: #A9CD49;
+}
+.ourvervices h3{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+.ourvervices .our1 h3{
+	padding-top: 25px;
+	float: top;
+	height: 25px;
+}
+.ourvervices p{
+	margin: 0;
+	padding:0;
+}
+.ourvervices .our1 p{	
+	padding-top: 10px;
+	text-align: center;
+}
+.ourvervices .our2{
+	width: 100%;
+	height: 400px;
+}
+.ourvervices .our2 .box1{
+	float: left;
+	width: 20%;
+	height: 400px;
+	margin-left: 2%;
+}
+.ourvervices .our2 .box1.t{
+	margin-left: 7%;
+}.ourvervices .our2 .box1.p{
+	margin-right: 7%;
+}
+}.ourvervices .our2 .box1 .hinh{
+	float: left;
+	width: 100%;
+	height:50%;
+}
+}.ourvervices .our2 .box1 .thep{
+	float: left;
+	width: 100%;
+	height:50%;
+}
+.ourvervices .our2 .box1 .hinh img{
+	padding: 0;
+	margin: 0;
+	width: 50%;
+	height: 50%;
+	padding:0 25%;
+}
+.ourvervices .our2 p.a{
+	text-align: center;
+}
+.ourvervices .our2 p.b{
+	text-align: center;
+}
+hr{
+	width: 20%;
+	margin: auto;
+	height: 3px;
+	background-color: #67696d;
+}
+
