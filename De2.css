@@ -1,0 +1,160 @@
+.footer{
+	float: left;
+	width: 100%;
+	height: 500px;
+	background: #515356;
+}
+.footer .footer-box{
+	float: left;
+	width: 20%;
+	height: 100%;
+}
+.footer-box ul {
+	list-style: none;
+}
+.footer-box ul li {
+	display: block;
+	width: 100px;
+	height: 50px;
+	text-align: center;
+	line-height: 50px;
+	margin-left: 50px;
+}
+.footer-box ul li a{
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #c1c4cc;
+	font-size: 15px;
+}
+.footer-box ul li .td{
+	font-size: 20px;
+	color:white;
+}
+.footer-box .td-mid{
+	color: white;
+	text-transform: uppercase;
+	text-align:left;
+	text-decoration: none;
+	font-size: 20px;
+	display: block;
+	margin-top: 30px;
+}
+.footer-box .nd-mid{
+	padding-top: 20px;
+	width: 100%;
+	height: 20%;
+	padding-bottom: 10px;
+}
+
+.nd-mid .img{
+	width: 10%;
+	height: 100%;
+	float: left;
+}
+.nd-mid .img img{
+	width: 100%;
+}
+.nd-mid .nd{
+	padding: 0;
+	margin:0;
+	text-align: left;
+	font-size: 20px;
+	color: #c1c4cc;
+}
+.footer .footer-mid{
+	width: 30%;
+	height: 100%;
+	float: left;
+	margin-left: 30px;
+}
+.footer-mid .td-mid-m{
+	color: white;
+	text-transform: uppercase;
+	text-align:left;
+	text-decoration: none;
+	font-size: 20px;
+	display: block;
+	margin-top: 30px;
+	margin-bottom: 26px;
+
+}
+.footer-mid img{
+	width: 50px;
+	height: 50px;
+	float: left;
+	margin-right: 20px;
+}
+.footer-mid p{
+	padding: 0;
+	margin: 0 ;
+	font-size: 20px;
+	color: #c1c4cc;
+	text-align:left;
+}
+.footer-mid .cd{
+	width: 100px;
+	height: 100px;
+	float: left;
+	margin-top: 20px;
+}
+.footer-mid .nd-cd{
+	color: white;
+	padding-top: 16px;
+}
+.footer-mid .inf{
+	padding: 0;
+	margin: 0;
+	font-size: 15px;
+}
+.footer .box{
+	width: 20%;
+	height: 350px;
+	float: left;
+	background: #dee0e5;
+	margin-top: 26px;
+	margin-left: 40px;
+}
+.box p{
+	display: block;
+	text-transform: uppercase;
+	font-size: 20px;
+	padding: 0;
+	margin: 0;
+	margin-top: 10px;
+	margin-left: 50px;
+}
+.box .box-t{
+	width: 80%;
+	height: 50px;
+	background: white;
+	margin: 0 auto;
+	border: 1px solid #c2c2c4;
+	margin-top: 20px;
+	line-height: 50px;
+	padding-left: 5px;
+	color: #e0e0e0;
+}
+.box .box-b{
+	width: 80%;
+	height:100px;
+	background: white;
+	margin: 0 auto;
+	margin-top: 20px;
+	border: 1px solid #c2c2c4;
+	text-align: left;
+	color: #e0e0e0;
+	}
+.box a{
+	text-transform:uppercase;
+	text-decoration: none;
+	display: block;
+	width: 80px;
+	height: 30px;
+	background: #74fc3f;
+	line-height: 30px;
+	text-align: center;
+	color :white;
+	margin-top: 10px;
+	margin-left: 38px;
+}
